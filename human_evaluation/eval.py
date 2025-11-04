@@ -7,7 +7,7 @@ from pygments.lexers import JavaLexer
 from pygments.styles import get_style_by_name
 from difflib import ndiff
 
-DATA_PATH = "selected_samples.json"
+DATA_PATH = os.path.join(os.path.dirname(__file__), "selected_samples.json")
 STYLE = get_style_by_name("monokai")
 
 
