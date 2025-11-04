@@ -41,9 +41,14 @@ Step 2 — Run the evaluation tool
     python eval.py
 
 Step 3 — Enter your username when prompted.
+    <img width="591" height="310" alt="image" src="https://github.com/user-attachments/assets/b1c00b0c-e9d1-43db-948a-be8081df4987" />
+
     A file `<username>_results.json` will be created automatically to store your scores.
 
 Step 4 — Rate all samples
+    <img width="1802" height="1125" alt="image" src="https://github.com/user-attachments/assets/e50333cc-d3aa-43bc-9495-891f5e6314a2" />
+    <img width="1799" height="1127" alt="image" src="https://github.com/user-attachments/assets/9088ddd7-3cce-4f1e-9a72-39f6159b58c5" />
+
     Check both panels and the diff view, then rate each code pair (1–5) for:
 
     * Naturalness
@@ -67,3 +72,4 @@ All results are saved in JSON:
 ---
 
 End of Guide — thank you for participating!
+
