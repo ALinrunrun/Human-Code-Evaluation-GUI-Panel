@@ -32,10 +32,15 @@ Evaluate whether the modified code still expresses the same meaning and function
 ## 4. How to Use
 
 Step 1 — Install dependencies
+
+    ```bash
     pip install -r requirements.txt
+    ```
 
 Step 2 — Run the evaluation tool
+    ```bash
     python eval.py
+    ```
 
 Step 3 — Enter your username when prompted.  
     A file `<username>_results.json` will be created automatically to store your scores.
@@ -62,5 +67,6 @@ All results are saved in JSON:
 ---
 
 End of Guide — thank you for participating!
+
 
 
