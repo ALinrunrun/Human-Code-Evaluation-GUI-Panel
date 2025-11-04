@@ -4,6 +4,11 @@
 
 This tool provides a graphical user interface (GUI) for human evaluation of paired code samples.
 
+<p align="center">
+  <img src="Example.png" width="48%">
+  <img src="Example2.png" width="48%">
+</p>
+
 * Left side: **Original code**
 * Right side: **Adversarial (attacked) code**
 * Includes **syntax highlighting** and **GitHub-style diff** to visualize code differences.
@@ -55,6 +60,7 @@ Step 4 — Rate all samples
 All results are saved in JSON:
 
 # End of Guide — Thank you for participating!
+
 
 
 
