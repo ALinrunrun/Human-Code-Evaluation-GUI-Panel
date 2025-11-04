@@ -52,19 +52,10 @@ Step 4 — Rate all samples
     Use “Save and Next” to move through samples.
 
 ## 5. Output Format
-
 All results are saved in JSON:
 
-```json
-{
-  "sample_001": {"naturalness": 4, "semantic": 5},
-  "sample_002": {"naturalness": 3, "semantic": 4}
-}
-```
+# End of Guide — Thank you for participating!
 
----
-
-End of Guide — thank you for participating!
 
 
 
