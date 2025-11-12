@@ -21,10 +21,10 @@ You will rate each code pair based on two criteria: **Naturalness** and **Semant
 ## 2. Evaluation Criteria
 
 **(1) Naturalness**  
-Evaluate whether the modified parts look natural, human-written, and contextually fluent.
+Evaluate whether the modifications appear human-written and contextually coherent.
 
 **(2) Semantic Preservation**  
-Evaluate whether the modified code still expresses the same meaning and functionality as the original.
+Evaluate hether the modified code still expresses the same functionality as the original.
 
 ## 3. Rating Scale (1–5 Likert)
 
@@ -60,6 +60,7 @@ Step 4 — Rate all samples
 All results are saved in JSON:
 
 # End of Guide — Thank you for participating!
+
 
 
 
